@@ -3,7 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikoghoemmanuell" alt="ikoghoemmanuell" /></a> </p>
 
 - 🔭 I’m currently working on [Exploratory Data Analysis of Indian Startup Funding](https://link.medium.com/FQKD2yw5Mwb)
 
