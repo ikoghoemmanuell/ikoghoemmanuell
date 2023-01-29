@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Exploratory Data Analysis of Indian Startup Funding](https://link.medium.com/FQKD2yw5Mwb)
+- 🔭 I’m currently working on [Regression Project (Store Sales -- Time Series Forecasting)](https://github.com/ikoghoemmanuell/Regression-Project-Store-Sales----Time-Series-Forecasting-)
 
 - 🌱 I’m currently learning **Python for data analysis**
 
