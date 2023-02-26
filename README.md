@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Regression Project (Store Sales -- Time Series Forecasting)](https://github.com/ikoghoemmanuell/Regression-Project-Store-Sales----Time-Series-Forecasting-)
+- 🔭 I’m currently working on [Classification----Predicting-Customer-Churn](https://github.com/ikoghoemmanuell/Classification----Predicting-Customer-Churn.git)
 
 - 🌱 I’m currently learning **Python for data analysis**
 
