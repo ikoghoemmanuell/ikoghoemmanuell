@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on [Classification----Predicting-Customer-Churn](https://github.com/ikoghoemmanuell/Classification----Predicting-Customer-Churn.git)
+- 🔭 I’m currently working on [Sentiment Analysis with Hugging Face](https://github.com/ikoghoemmanuell/Sentiment-Analysis-with-Hugging-Face)
 
-- 🌱 I’m currently learning **Python for data analysis**
+- 🌱 I’m currently learning **Sentiment Analysis**
 
 - 📝 I regularly write articles on Medium [https://link.medium.com/wgG3TuA5Mwb](https://link.medium.com/wgG3TuA5Mwb)
 
