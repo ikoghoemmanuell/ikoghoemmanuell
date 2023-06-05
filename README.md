@@ -7,7 +7,7 @@
 <h1 align="">Hello 👋, I'm Emmanuel Ikogho</h1>
 <h3 align="">A passionate Data Scientist.</h3>
 
-My projects and areas of expertise:
+## My projects:
 
 - [View](https://github.com/ikoghoemmanuell/Prediction-with-ML-and-FastAPI) **Sepsis Prediction with ML and FastAPI**
 - [View](https://github.com/ikoghoemmanuell/Sentiment-Analysis-with-Finetuned-Models/blob/main/Article.md) **Sentiment Analysis with Finetuned Models**
@@ -17,12 +17,20 @@ My projects and areas of expertise:
 - [View](https://github.com/ikoghoemmanuell/Regression-Project-Store-Sales----Time-Series-Forecasting-/blob/main/teamNice-LP2.ipynb) **Time Series Forecasting for Store Sales**
 - [View](https://github.com/ikoghoemmanuell/Indian-Startup-Funding-Analysis-Group-Nice) **Indian Startup Funding Analysis**
 
-<a href="https://github.com/postcss/postcss"><img src="https://postcss.org/logo.svg" width="70" height="70" alt="PostCSS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/browserslist/browserslist"><img src="https://browserslist.github.io/browserslist/logo.svg" width="70" height="70" alt="Browserslist logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/postcss/autoprefixer"><img src="http://postcss.github.io/autoprefixer/logo.svg" width="70" height="70" alt="Autoprefixer logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/logux/logux"><img src="https://logux.io/branding/logo.svg" width="70" height="70" alt="Logux logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ai/size-limit"><img src="https://ai.github.io/size-limit/logo.svg" width="54" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ai/nanoid"><img src="https://ai.github.io/nanoid/logo.svg" width="90" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/storeon/storeon"><img src="https://storeon.github.io/storeon/logo.svg" width="70" height="70" alt="Storeon logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/postcss/sugarss"><img src="http://postcss.github.io/sugarss/logo.svg" width="70" height="70" alt="SugarSS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/nanostores/nanostores"><img src="https://nanostores.github.io/nanostores/logo.svg" width="70" height="70" title="Nano Stores logo"></a>
+## My Skills:
+**Data Analysis & Machine Learning**
+
+<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="70" height="70" alt="PostCSS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://img.favpng.com/23/14/0/machine-learning-deep-learning-artificial-intelligence-supervised-learning-support-vector-machine-png-favpng-pk6kR3fbraDTCN1B9ijfqCV9K.jpg" width="70" height="70" alt="Autoprefixer logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://analyticslearn.com/wp-content/uploads/2020/11/What-is-Exploratory-Data-Analysis.jpg" width="" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://www.alura.com.br/artigos/assets/power-bi/power-bi-logo.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**Deploying Machine Learning Models**
+
+<a><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://miro.medium.com/v2/resize:fit:640/0*zvhlCD9RXDA4qbX5" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://pbs.twimg.com/profile_images/1526964416834510848/Njy4Kh2q_400x400.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/image4.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a><img src="https://i.pinimg.com/originals/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg" width="70" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
