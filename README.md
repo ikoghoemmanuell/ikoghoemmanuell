@@ -1,6 +1,6 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
 [![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@emmanuel.ikogho)
-[![Articles](https://img.shields.io/badge/My-Portfolio-purple?logo=Medium)](https://emmanuelikogho.netlify.app/)
+[![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://emmanuelikogho.netlify.app/)
 
 ![ezgif com-crop (4)](https://github.com/ikoghoemmanuell/ikoghoemmanuell/assets/102419217/bcd5d802-dc77-4994-86a6-f5ccb46cc145)
 
