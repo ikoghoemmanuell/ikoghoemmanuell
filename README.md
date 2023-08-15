@@ -18,13 +18,14 @@
 - [View](https://github.com/ikoghoemmanuell/Regression-Project-Store-Sales----Time-Series-Forecasting-/blob/main/teamNice-LP2.ipynb) **Time Series Forecasting for Store Sales**
 - [View](https://github.com/ikoghoemmanuell/Indian-Startup-Funding-Analysis-Group-Nice) **Indian Startup Funding Analysis**
 - [View](https://github.com/ikoghoemmanuell/FakeNews-Detection-with-deep-learning-models-Bizstech-Msc.-Cybersecurity) **Fake News Detection with Deep Learning Models**
+- [View](https://github.com/ikoghoemmanuell/Grocery-Store-Forecasting-Challenge-For-Azubian/blob/main/Article.md) **Grocery Sales Forecasting for azubian**
 
 ### SQL:
 - [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/SQL%20-%20Wave%20Money%20Transfer%20Analysis.md) **Wave Money Transfer Analysis**
 - [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/SQL%20-Northwind%20Database.md) **Northwind Database Analysis**
 - [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/Techconnect%20Data_Analysis_with_SQL.md) **Tehconnect Data Analysis**
 
-### 
+### Dashboards
 
 ## My Skills:
 **Data Analysis & Machine Learning**
