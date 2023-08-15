@@ -9,6 +9,7 @@
 
 ## My projects:
 
+### Python:
 - [View](https://github.com/ikoghoemmanuell/Prediction-with-ML-and-FastAPI) **Sepsis Prediction with ML and FastAPI**
 - [View](https://github.com/ikoghoemmanuell/Sentiment-Analysis-with-Finetuned-Models/blob/main/Article.md) **Sentiment Analysis with Finetuned Models**
 - [View](https://github.com/ikoghoemmanuell/Deploying-a-ML-Model-with-Streamlit) **Deploying a Machine Learning Model with Streamlit**
@@ -16,6 +17,14 @@
 - [View](https://github.com/ikoghoemmanuell/Classification----Predicting-Customer-Churn) **Customer Churn Prediction**
 - [View](https://github.com/ikoghoemmanuell/Regression-Project-Store-Sales----Time-Series-Forecasting-/blob/main/teamNice-LP2.ipynb) **Time Series Forecasting for Store Sales**
 - [View](https://github.com/ikoghoemmanuell/Indian-Startup-Funding-Analysis-Group-Nice) **Indian Startup Funding Analysis**
+- [View](https://github.com/ikoghoemmanuell/FakeNews-Detection-with-deep-learning-models-Bizstech-Msc.-Cybersecurity) **Fake News Detection with Deep Learning Models**
+
+### SQL:
+- [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/SQL%20-%20Wave%20Money%20Transfer%20Analysis.md) **Wave Money Transfer Analysis**
+- [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/SQL%20-Northwind%20Database.md) **Northwind Database Analysis**
+- [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/Techconnect%20Data_Analysis_with_SQL.md) **Tehconnect Data Analysis**
+
+### 
 
 ## My Skills:
 **Data Analysis & Machine Learning**
