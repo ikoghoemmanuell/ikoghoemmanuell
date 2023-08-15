@@ -25,7 +25,10 @@
 - [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/SQL%20-Northwind%20Database.md) **Northwind Database Analysis**
 - [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/Techconnect%20Data_Analysis_with_SQL.md) **Tehconnect Data Analysis**
 
-### Dashboards
+### Dashboards:
+- [View](https://app.powerbi.com/view?r=eyJrIjoiMTZhMWMxYzAtNjM0OC00YWEyLWFhNTItMGU0OWNiNTFmYjdmIiwidCI6ImI4MGJiZGQ4LWFlM2UtNDY1Yy1hNDcwLWMwODgyYTUxYWViNyIsImMiOjh9) **Azubian 2019 Sales Analysis**
+- [View](https://app.powerbi.com/view?r=eyJrIjoiYjAzNGYxMGMtNTY3Mi00Y2I4LTlhYTYtMTkzNGRlZThjZGI0IiwidCI6ImI4MGJiZGQ4LWFlM2UtNDY1Yy1hNDcwLWMwODgyYTUxYWViNyIsImMiOjh9) **SQL Hackathon**
+- [View](https://app.powerbi.com/view?r=eyJrIjoiNjQzYTg5MzMtYWRjOC00YjcwLWFjZGQtZmUwZTFhZDU5ZjU0IiwidCI6ImI4MGJiZGQ4LWFlM2UtNDY1Yy1hNDcwLWMwODgyYTUxYWViNyIsImMiOjh9) **Sales Dashboard Analysis**
 
 ## My Skills:
 **Data Analysis & Machine Learning**
