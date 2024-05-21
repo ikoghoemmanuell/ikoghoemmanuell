@@ -7,6 +7,7 @@
 <h1 align="">Hello 👋, I'm Emmanuel Ikogho</h1>
 <h3 align="">A passionate Data Scientist.</h3>
 
+- [View](https://github.com/ikoghoemmanuell?tab=repositories) **All My Projects**
 ## My Recent projects:
 
 ### Python:
@@ -19,7 +20,6 @@
 - [View](https://github.com/ikoghoemmanuell/Indian-Startup-Funding-Analysis-Group-Nice) **Indian Startup Funding Analysis**
 - [View](https://github.com/ikoghoemmanuell/FakeNews-Detection-with-deep-learning-models-Bizstech-Msc.-Cybersecurity) **Fake News Detection with Deep Learning Models**
 - [View](https://github.com/ikoghoemmanuell/Grocery-Store-Forecasting-Challenge-For-Azubian/blob/main/Article.md) **Grocery Sales Forecasting for azubian**
-- [View](https://github.com/ikoghoemmanuell?tab=repositories) **More Projects**
 
 ### SQL:
 - [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/SQL%20-%20Wave%20Money%20Transfer%20Analysis.md) **Wave Money Transfer Analysis**
